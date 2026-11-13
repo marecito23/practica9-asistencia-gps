@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+venv/
+.env
+frintend/build/
+frintend/.dart_tool/
+frintend/.flutter-plugins
+frintend/.flutter-plugins-dependencies
+frintend/windows/flutter/ephemeral/
+.idea/
+*.iml
